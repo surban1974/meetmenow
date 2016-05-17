@@ -1,2 +1,2 @@
 # meetmenow
-Mobil startup
+Mobile startup - concept with minimal documentation
